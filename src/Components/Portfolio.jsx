@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Project: Airline Platform",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "For this project, I led a team in developing an airline platform utilizing Django framework for the backend and Vue.js for the frontend. The platform encompassed comprehensive flight booking management, passenger handling, and flight itinerary management. Leveraging Django's robust backend capabilities facilitated efficient data handling and processing, while Vue.js empowered us to create a dynamic and intuitive user interface. ",
+    url: "https://github.com/SebaxtriUTP",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Chess using websockets",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this project, I spearheaded the development of a real-time multiplayer chess game using Python. We employed threading, distributed systems, and websocket connections to enable seamless interaction between players. Leveraging threading allowed us to manage concurrent tasks efficiently, ensuring smooth gameplay experience for multiple users. Additionally, we implemented distributed systems to handle communication between servers and clients, ensuring scalability and reliability.",
+    url: "https://github.com/SebaxtriUTP/Chess",
   },
   {
-    title: "My Resume Site",
+    title: "Mini c compiler using python",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Our compiler followed a modular architecture, comprising lexical analysis, syntax parsing, semantic analysis, and code generation phases. Through careful design and implementation, we ensured compatibility with a subset of the C language, focusing on essential features like variable declarations, arithmetic operations, conditionals, loops, and function definitions.",
+    url: "https://github.com/SebaxtriUTP/mini-c-compiler",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Monocycle RISC-V Processor: Assembly to Machine Language Converter",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Monocycle RISC-V Processor is a program meticulously crafted to convert assembly language code into machine language. Built to support the RISC-V architecture, this tool enables developers to seamlessly translate human-readable assembly instructions into binary instructions executable by the processor.",
+    url: "https://github.com/SebaxtriUTP/Procesador-Monociclo-RISC-V",
   },
 ];
 
